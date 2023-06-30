@@ -158,3 +158,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+sharechat_recsys2023_data/train/
+sharechat_recsys2023_data/test/
+sharechat_recsys2023_data/README.txt
+
+num_log2/train.csv
+num_log2/test.csv

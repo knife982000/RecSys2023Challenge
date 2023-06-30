@@ -1,0 +1,17 @@
+name: RecSysEnv
+channels:
+  - pytorch
+  - numba
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.10
+  - pytorch=2.0.0
+  - polars=0.17.2
+  - matplotlib=3.7.1
+  - tqdm
+  - scikit-learn=1.2.2
+  - numba=0.57.0
+  - jupyterlab=3.6.3
+
