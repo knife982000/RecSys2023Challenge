@@ -31,6 +31,10 @@ Running `num_log2/Prediction_deep_mf_single_emb_rnd_v2.ipynb` trains the model, 
 
 The `num_log2/predict_deep_mf_single_embds_rnd_v2.pt` provided in the repository is the exact model used to generate the submitted predictions. As it is, the notebook ignores the previously stored model and overrides it. 
 
+## Other Experiments
+
+Code for other experiments presented in the paper are presented in the folders `criteo` and `ml100k`.
+
 ## Contact info:
 
 * [Antonela Tommasel](https://tommantonela.github.io) (antonela.tommasel@isistan.unicen.edu.ar)
