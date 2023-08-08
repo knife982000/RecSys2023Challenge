@@ -1,4 +1,6 @@
 # RecSys2023Challenge - Isistanitos
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weighted-multi-level-feature-factorization/collaborative-filtering-on-movielens-100k)](https://paperswithcode.com/sota/collaborative-filtering-on-movielens-100k?p=weighted-multi-level-feature-factorization)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/weighted-multi-level-feature-factorization/click-through-rate-prediction-on-criteo)](https://paperswithcode.com/sota/click-through-rate-prediction-on-criteo?p=weighted-multi-level-feature-factorization)
 
 Isistanitos submission for the RecSys Challenge 2023.
 
@@ -33,7 +35,22 @@ The `num_log2/predict_deep_mf_single_embds_rnd_v2.pt` provided in the repository
 
 ## Other Experiments
 
-Code for other experiments presented in the paper are presented in the folders `criteo` and `ml100k`.
+Code for other experiments presented in the paper is presented in the folders `criteo` and `ml100k`.
+
+## Citing
+
+If you found this repository useful, please consider citing:
+
+```bibtex
+@misc{rodriguez2023weighted,
+      title={Weighted Multi-Level Feature Factorization for App ads CTR and installation prediction}, 
+      author={Juan Manuel Rodriguez and Antonela Tommasel},
+      year={2023},
+      eprint={2308.02568},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
 
 ## Contact info:
 
